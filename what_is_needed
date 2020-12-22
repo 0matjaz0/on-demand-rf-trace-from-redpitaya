@@ -1,0 +1,7 @@
+envionment is Python on PC, connected to SCPI server on RedPitaya
+
+need to read, from RF input, N points at SR sampling rate 
+can we do it untriggered?
+if not, workaround, by using a self-generated signal to ext trigger?
+
+done so far: hello world works, i.e. can toggle led and can read slow analog input
